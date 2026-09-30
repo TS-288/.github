@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TS-288-org-profile/profile/assets/banner.svg" alt="TS-288 — Software e servizi utili, pensati per le persone" width="100%">
-</div>
-
-<div align="center">
 
 ![Stato](https://img.shields.io/badge/stato-in%20sviluppo-2563eb?style=flat-square)
 ![Kotlin](https://img.shields.io/badge/Kotlin-Android-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
