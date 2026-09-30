@@ -1,12 +1,3 @@
-<div align="center">
-
-![Stato](https://img.shields.io/badge/stato-in%20sviluppo-2563eb?style=flat-square)
-![Kotlin](https://img.shields.io/badge/Kotlin-Android-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-iPadOS-F05138?style=flat-square&logo=swift&logoColor=white)
-![Open source](https://img.shields.io/badge/open%20source-sì-16a34a?style=flat-square)
-
-</div>
-
 <img src="https://raw.githubusercontent.com/TS-288/.github/main/profile/assets/divider.svg" alt="" width="100%">
 
 ## Chi siamo
@@ -22,7 +13,15 @@ Progettiamo e sviluppiamo programmi e servizi utili alle persone, con un obietti
 ## Progetto in sviluppo
 
 <!-- Sostituisci il titolo qui sotto con il nome definitivo del progetto quando l'avete scelto. -->
-### Editor di codice nativo per iPad e Android
+### Visual Studio Code nativo per iPad e Android
+<div align="center">
+
+![Stato](https://img.shields.io/badge/stato-in%20sviluppo-2563eb?style=flat-square)
+![Kotlin](https://img.shields.io/badge/Kotlin-Android-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-iPadOS-F05138?style=flat-square&logo=swift&logoColor=white)
+![Open source](https://img.shields.io/badge/open%20source-sì-16a34a?style=flat-square)
+
+</div>
 
 Stiamo realizzando un editor di codice professionale, con un'esperienza d'uso ispirata a Visual Studio Code, pensato per portare la programmazione su un dispositivo più comodo, potente e portatile di un computer tradizionale.
 
