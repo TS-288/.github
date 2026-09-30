@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TS-288/.github/main/profile/assets/banner.svg" alt="TS-288 — Software e servizi utili, pensati per le persone" width="100%">
+  <img src="https://raw.githubusercontent.com/TS-288-org-profile/profile/assets/banner.svg" alt="TS-288 — Software e servizi utili, pensati per le persone" width="100%">
 </div>
 
 <div align="center">
