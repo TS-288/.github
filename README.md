@@ -46,18 +46,19 @@ Stiamo realizzando un editor di codice professionale, con un'esperienza d'uso is
 
 <img src="https://raw.githubusercontent.com/TS-288/.github/main/profile/assets/divider.svg" alt="" width="100%">
 
-## Team
+<h2 align="center">Team</h2>
 
-<table>
+<div align="center">
+<table align="center">
   <tr>
-    <td align="center" width="200">
+    <td align="center" width="220">
       <a href="https://github.com/terzastella">
         <img src="https://github.com/terzastella.png?size=160" width="88" alt="Terzastella"><br>
         <b>Terzastella</b>
       </a><br>
       <sub>Co-fondatore</sub>
     </td>
-    <td align="center" width="200">
+    <td align="center" width="220">
       <a href="https://github.com/Ciuffetto288">
         <img src="https://github.com/Ciuffetto288.png?size=160" width="88" alt="Ciuffetto288"><br>
         <b>Ciuffetto288</b>
@@ -66,6 +67,7 @@ Stiamo realizzando un editor di codice professionale, con un'esperienza d'uso is
     </td>
   </tr>
 </table>
+</div>
 
 ## Repository
 
