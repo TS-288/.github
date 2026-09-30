@@ -46,14 +46,14 @@ Stiamo realizzando un editor di codice professionale, con un'esperienza d'uso is
         <img src="https://github.com/terzastella.png?size=160" width="88" alt="Terzastella"><br>
         <b>Terzastella</b>
       </a><br>
-      <sub>Co-fondatore</sub>
+      <sub>Fondatore</sub>
     </td>
     <td align="center" width="220">
       <a href="https://github.com/Ciuffetto288">
         <img src="https://github.com/Ciuffetto288.png?size=160" width="88" alt="Ciuffetto288"><br>
         <b>Ciuffetto288</b>
       </a><br>
-      <sub>Co-fondatore</sub>
+      <sub>Fondatore</sub>
     </td>
   </tr>
 </table>
