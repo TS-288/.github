@@ -23,12 +23,7 @@ Progettiamo e sviluppiamo programmi e servizi utili alle persone, con un obietti
 
 </div>
 
-Stiamo realizzando un editor di codice professionale, con un'esperienza d'uso ispirata a Visual Studio Code, pensato per portare la programmazione su un dispositivo più comodo, potente e portatile di un computer tradizionale.
-
-| Piattaforma | Linguaggio | Stato |
-|:------------|:-----------|:------|
-| iPad (iPadOS) | Swift | In sviluppo |
-| Android | Kotlin | In sviluppo |
+Stiamo realizzando un editor di codice professionale, con un'esperienza d'uso ispirata a 'Visual Studio Code - Open Source', pensato per portare la programmazione su un dispositivo più comodo, potente e portatile di un computer tradizionale.
 
 **Perché nativo.** Scegliamo Kotlin e Swift, i linguaggi nativi delle due piattaforme, per costruire applicazioni che si integrano con il sistema operativo e sfruttano al meglio l'hardware dei tablet moderni.
 
