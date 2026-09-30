@@ -1,49 +1,90 @@
-# TS-288
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TS-288/.github/main/profile/assets/banner.svg" alt="TS-288 — Software e servizi utili, pensati per le persone" width="100%">
+</div>
 
-<p align="left">
-  <a href="https://github.com"><img src="https://shields.io" alt="TS-288"></a>
-  <img src="https://shields.io" alt="Status">
-  <img src="https://shields.io" alt="Platform">
-</p>
+<div align="center">
 
-TS-288 è un'organizzazione open source fondata da **Ciuffetto288** e **Terzastella**. La nostra missione è progettare, sviluppare e distribuire applicazioni e servizi digitali focalizzati sull'utilità sociale e sul supporto alla comunità degli sviluppatori.
+![Stato](https://img.shields.io/badge/stato-in%20sviluppo-2563eb?style=flat-square)
+![Kotlin](https://img.shields.io/badge/Kotlin-Android-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-iPadOS-F05138?style=flat-square&logo=swift&logoColor=white)
+![Open source](https://img.shields.io/badge/open%20source-sì-16a34a?style=flat-square)
 
----
+</div>
 
-### Progetto Principale: Visual Studio Code per iPadOS e Android
+<img src="https://raw.githubusercontent.com/TS-288/.github/main/profile/assets/divider.svg" alt="" width="100%">
 
-Il nostro core project attuale è lo sviluppo e l'ottimizzazione di un ecosistema per portare **Visual Studio Code su dispositivi iPadOS e Android**. 
+## Chi siamo
 
-L'obiettivo è colmare il divario tra la produttività desktop e la portabilità mobile, consentendo agli sviluppatori di utilizzare software professionali su dispositivi compatti, leggeri e ad alte prestazioni senza compromessi tecnici.
+**TS-288** è un'organizzazione fondata da due sviluppatori, [Terzastella](https://github.com/terzastella) e [Ciuffetto288](https://github.com/Ciuffetto288). Il nome unisce i nostri due nomi: **TS** da *Terzastella*, **288** da *Ciuffetto288*.
 
-#### Obiettivi del progetto:
-* **Ottimizzazione dell'interfaccia:** Adattamento dell'ambiente di sviluppo per schermi touch ed ecosistemi mobile.
-* **Portabilità ed efficienza:** Riduzione dell'overhead per garantire sessioni di programmazione fluide anche su hardware mobile.
-* **Estensibilità:** Mantenimento del supporto alle estensioni fondamentali per i flussi di lavoro moderni.
+## Missione
 
----
+Progettiamo e sviluppiamo programmi e servizi utili alle persone, con un obiettivo semplice: aiutare chi li usa a fare di più, meglio e con meno ostacoli.
 
-### Stack Tecnologico
+<img src="https://raw.githubusercontent.com/TS-288/.github/main/profile/assets/divider.svg" alt="" width="100%">
 
-L'organizzazione adotta tecnologie standard di settore per garantire la massima compatibilità e manutenibilità dei progetti:
+## Progetto in sviluppo
 
-* **Core & Frontend:** TypeScript, JavaScript, HTML5, CSS3
-* **Piattaforme Target:** iPadOS, Android, Web
-* **Infrastruttura & Strumenti:** Git, GitHub Actions, Docker
+<!-- Sostituisci il titolo qui sotto con il nome definitivo del progetto quando l'avete scelto. -->
+### Editor di codice nativo per iPad e Android
 
----
+Stiamo realizzando un editor di codice professionale, con un'esperienza d'uso ispirata a Visual Studio Code, pensato per portare la programmazione su un dispositivo più comodo, potente e portatile di un computer tradizionale.
 
-### Contributi e Community
+| Piattaforma | Linguaggio | Stato |
+|:------------|:-----------|:------|
+| iPad (iPadOS) | Swift | In sviluppo |
+| Android | Kotlin | In sviluppo |
 
-Crediamo nel valore della collaborazione e nello sviluppo condiviso. I nostri repository sono aperti a contributi esterni da parte di sviluppatori, tester e designer che desiderano supportare la roadmap dei progetti.
+**Perché nativo.** Scegliamo Kotlin e Swift, i linguaggi nativi delle due piattaforme, per costruire applicazioni che si integrano con il sistema operativo e sfruttano al meglio l'hardware dei tablet moderni.
 
-Per segnalazioni di bug, richieste di funzionalità o per esaminare il codice sorgente, vi invitiamo a consultare le singole repository dell'organizzazione.
+## Principi
 
----
+- **Nativo**: un'app pensata per ciascuna piattaforma, non un adattamento.
+- **Portatile**: strumenti di sviluppo sempre a disposizione, ovunque ci si trovi.
+- **Utile**: ogni progetto nasce per risolvere un problema reale delle persone.
+- **Aperto**: il codice è pubblico e le idee della community sono benvenute.
 
-<p align="center">
-  An organization founded and maintained by 
-  <a href="https://github.com/Ciuffetto288"><b>Ciuffetto288</b></a> 
-  and 
-  <a href="https://github.com/Terzastella"><b>Terzastella</b></a>.
-</p>
+<img src="https://raw.githubusercontent.com/TS-288/.github/main/profile/assets/divider.svg" alt="" width="100%">
+
+## Team
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://github.com/terzastella">
+        <img src="https://github.com/terzastella.png?size=160" width="88" alt="Terzastella"><br>
+        <b>Terzastella</b>
+      </a><br>
+      <sub>Co-fondatore</sub>
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/Ciuffetto288">
+        <img src="https://github.com/Ciuffetto288.png?size=160" width="88" alt="Ciuffetto288"><br>
+        <b>Ciuffetto288</b>
+      </a><br>
+      <sub>Co-fondatore</sub>
+    </td>
+  </tr>
+</table>
+
+## Repository
+
+Tutti i progetti sono disponibili nella pagina [repository dell'organizzazione](https://github.com/orgs/TS-288/repositories).
+
+## Contribuire
+
+Segnalazioni, idee e pull request sono le benvenute.
+
+1. Apri una **issue** per segnalare un problema o proporre una funzionalità.
+2. Crea un **fork** del repository e lavora su un branch dedicato.
+3. Invia una **pull request** descrivendo con chiarezza le modifiche.
+
+## Contatti
+
+Per domande o collaborazioni, apri una issue nel repository interessato oppure scrivici dai nostri profili GitHub: [@terzastella](https://github.com/terzastella) e [@Ciuffetto288](https://github.com/Ciuffetto288).
+
+<img src="https://raw.githubusercontent.com/TS-288/.github/main/profile/assets/divider.svg" alt="" width="100%">
+
+<div align="center">
+  <sub>© TS-288 · Costruito da Terzastella e Ciuffetto288</sub>
+</div>
