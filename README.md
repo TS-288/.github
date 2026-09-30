@@ -43,7 +43,7 @@ Per segnalazioni di bug, richieste di funzionalità o per esaminare il codice so
 
 <p align="center">
   An organization founded and maintained by 
-  <a href="https://github.com"><b>Ciuffetto288</b></a> 
+  <a href="https://github.com/Ciuffetto288"><b>Ciuffetto288</b></a> 
   and 
-  <a href="https://github.com"><b>Terzastella</b></a>.
+  <a href="https://github.com/Terzastella"><b>Terzastella</b></a>.
 </p>
